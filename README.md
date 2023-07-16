@@ -4,7 +4,7 @@ Link to Deployed Site : https://phone-review-app.onrender.com/
 (Currently Not Available)
 
 # The Frontend
-
+ 
 ## client/src/index.js
 This file contains the routes and the client side endpoints for each separate page
 

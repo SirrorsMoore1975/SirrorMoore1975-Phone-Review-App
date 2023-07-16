@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SirrorsMoore1975/SirrorsMoore1975-Phone-Review-App.git"
+    "url": "git+https://github.com/SirrorsMoore1975/SM1975-PAA.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SirrorsMoore1975/SirrorsMoore1975-Phone-Review-App/issues"
+    "url": "https://github.com/SirrorsMoore1975/SM1975-PAA/issues"
   },
-  "homepage": "https://github.com/SirrorsMoore1975/SirrorsMoore1975-Phone-Review-App#readme",
+  "homepage": "https://github.com/SirrorsMoore1975/SM1975-PAA#readme",
   "dependencies": {
     "concurrently": "^8.2.0",
     "dotenv": "^16.0.3",
